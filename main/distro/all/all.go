@@ -80,4 +80,7 @@ import (
 
 	// Commands
 	_ "github.com/xtls/xray-core/main/commands/all"
+
+	// xray srp plugin
+	_ "github.com/supersongssr/xray-plugin-srp"
 )
